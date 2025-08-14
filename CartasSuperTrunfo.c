@@ -83,7 +83,7 @@ int main(){
 
  // Exibição da primeira carta
 
-   printf("---- Carta 1 ----H \n\n"); // Titulo primeira carta
+   printf("---- Carta 1 ---- \n\n"); // Titulo primeira carta
    printf("Estado: %c \n", estado1);
    printf("Codigo: %s\n", codigo1);
    printf("Nome da cidade: %s\n", cidade1);
