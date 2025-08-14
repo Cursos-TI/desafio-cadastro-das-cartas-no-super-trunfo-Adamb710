@@ -30,8 +30,8 @@ int main(){
 
    printf("----CARTA 1----\n\n"); // Exibição da indicação de cadastro da primeira carta
 
-   printf("Digite o estado ( A - H): \n");
-   scanf(" %c", &estado1);
+   printf("Digite o estado ( A - H): \n"); // Exibe na tela passo a ser seguido
+   scanf(" %c", &estado1);                 // coleta dado do passo seguido a partir de digitação do usuario
 
    printf("Digite o codigo (01 a 04): \n");
    scanf("%s", codigo1);
